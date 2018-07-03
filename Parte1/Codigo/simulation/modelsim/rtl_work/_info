@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\TP4\Codigo\simulation\modelsim
+vmaq_emissora
+!i10b 1
+!s100 fOi^`0jMY=?6?ggDWa[?f0
+I9lP;9TOB`2ZJY[IBfU3jH3
+VSHkEmJ[G;4?h=6`]92]O63
+Z1 dC:\Users\Aluno\Downloads\TP4\Codigo\simulation\modelsim
+Z2 w1529087707
+Z3 8C:/Users/Aluno/Downloads/TP4/Codigo/Snooping.v
+Z4 FC:/Users/Aluno/Downloads/TP4/Codigo/Snooping.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1529090760.299000
+Z7 !s107 C:/Users/Aluno/Downloads/TP4/Codigo/Snooping.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Downloads/TP4/Codigo|C:/Users/Aluno/Downloads/TP4/Codigo/Snooping.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/TP4/Codigo -O0
+vmaq_receptora
+!i10b 1
+!s100 4M>LzD?TE2Eai0Qb8HWob1
+IjV`YaKC^NAKR:gYifg[;]2
+VCOfjandbR;dzSNLL?GDI23
+R1
+R2
+R3
+R4
+L0 80
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+vSnooping
+!i10b 1
+!s100 G<Aom`o9C7mLdngCW;nhA0
+I8E=7ijghU38k9YZ2<[J^83
+VL@BVMLcDUl62Qb8]BVJjO0
+R1
+R2
+R3
+R4
+L0 140
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@snooping
